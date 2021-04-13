@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ajith Johnson!
 
+Web developer and Web designer
+
 ....
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AJITH%20JOHNSON_3?label=People%20who%20are%20following%20me&style=social)
