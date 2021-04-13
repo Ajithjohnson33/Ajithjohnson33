@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ajith Johnson!
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fajithjohnson31)
+![Twitter Follow](https://img.shields.io/twitter/follow/AJITHJOHNSON31?label=People%20following%20me%20on%20twitter&style=social)
 
 <!--
 **Ajithjohnson33/Ajithjohnson33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
