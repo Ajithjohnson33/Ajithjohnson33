@@ -2,7 +2,7 @@
 
 ....
 
-![Twitter Follow](https://img.shields.io/twitter/follow/@AJITHJOHNSON31?label=People%20who%20are%20following%20me&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/AJITH%20JOHNSON_3?label=People%20who%20are%20following%20me&style=social)
 
 ....
 
