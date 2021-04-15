@@ -4,11 +4,15 @@
 <b>Web developer and Web designer </b>
 ....
 
-🌱 I’m currently learning everything 🤣 <br />
-👯 I’m looking to collaborate with other developers <br />
-🥅 2021 Goals: Contribute begin to Open Source projects <br />
-⚡ Fun fact: I love to Games 
+<h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
+
+- 🌱 I’m currently learning everything 🤣 <br />
+- 👯 I’m looking to collaborate with other developers <br />
+- 🥅 2021 Goals: Contribute begin to Open Source projects <br />
+- ⚡ Fun fact: I love to Games 
 ....
+</br>
+
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
