@@ -4,7 +4,10 @@ Web developer and Web designer
 
 ....
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AJITH%20JOHNSON_3?label=People%20who%20are%20following%20me&style=social)
+🌱 I’m currently learning everything 🤣
+ 👯 I’m looking to collaborate with other content creators
+ 🥅 2021 Goals: Contribute more to Open Source projects
+ ⚡ Fun fact: I love to Games
 
 ....
 
