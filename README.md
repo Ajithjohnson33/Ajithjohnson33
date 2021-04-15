@@ -1,6 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ajith Johnson!
+...
 
 <b>Web developer and Web designer </b>
+....
+
 🌱 I’m currently learning everything 🤣 <br />
 👯 I’m looking to collaborate with other content creators <br />
 🥅 2021 Goals: Contribute more to Open Source projects <br />
