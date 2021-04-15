@@ -1,8 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ajith Johnson!
-...
-
-<b>Web developer and Web designer </b>
-....
+<ul>
+  <li><b>👤 Web developer and Web designer</li>
+  <li><b>😄 Pronouns:</b>  He/Him</li>
+  <li><b>📍 Location:</b> Kottayam </li>
+  <li><b>📣 Languages:</b> English & Malayalam</li>  
+</ul>
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
