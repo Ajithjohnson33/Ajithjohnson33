@@ -5,8 +5,8 @@
 ....
 
 🌱 I’m currently learning everything 🤣 <br />
-👯 I’m looking to collaborate with other content creators <br />
-🥅 2021 Goals: Contribute more to Open Source projects <br />
+👯 I’m looking to collaborate with other developers <br />
+🥅 2021 Goals: Contribute begin to Open Source projects <br />
 ⚡ Fun fact: I love to Games 
 ....
 ### Connect with me:
