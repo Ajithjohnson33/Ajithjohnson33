@@ -1,3 +1,6 @@
+<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
+
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ajith Johnson!
 <ul>
   <li><b>👤 Web developer and Web designer</li>
