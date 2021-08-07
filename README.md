@@ -2,6 +2,10 @@
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ajith Johnson!
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ajithjohnson33"/></p>
+
 <ul>
   <li><b>👤 Web developer and Web designer</li>
   <li><b>😄 Pronouns:</b>  He/Him</li>
