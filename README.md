@@ -3,7 +3,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ajith Johnson!
 
-<p align="center">I am currenly working on my developing my frontend skills on <b>Javascript</b> and other frontend libraries, Other than that I like <b>Typing, Problem solving, Critical Thinking and Logic Development</b>. My currently objective is to <b>become a full stack developer</b> and to <b>improve my exposure</b> in the tech communities by taking part in various community events and initiatives.<p>
+<p align="center">I am currenly working on my developing my frontend skills on <b>Javascript</b> and <b> I am ready to mingle with any open-source developers or community </b>, Other than that I like <b>Typing, Problem solving, Critical Thinking and Logic Development</b>. My currently objective is to <b>become a full stack developer</b> and to <b>improve my exposure</b> in the tech communities by taking part in various community events and initiatives.<p>
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ajithjohnson33"/></p>
